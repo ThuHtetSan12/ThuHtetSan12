@@ -23,4 +23,4 @@
 
 
 ### 🎧 Currently listening to
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31lstam4ptdgf6akmuarfn6jkfcy&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31lstam4ptdgf6akmuarfn6jkfcy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]![image](https://github.com/user-attachments/assets/b2cb24da-6763-46ac-b95a-115691d04f2b)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lstam4ptdgf6akmuarfn6jkfcy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
