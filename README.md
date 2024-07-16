@@ -7,7 +7,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Java](https://img.shields.io/badge/Java-%23ffffe0.svg?style=for-the-badge&logo=java&logoColor=black)]([https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://dev.java/))
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
-[![SQL](https://img.shields.io/badge/SQL-%23FFA500.svg?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)](https://www.w3schools.com/sql/)
+[![C++](https://img.shields.io/badge/SQL-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.w3schools.com/sql/)
 
 ### ☁️ Cloud Computing Services
 [![AWS EC2](https://img.shields.io/badge/AWS_EC2-%23FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white)](https://aws.amazon.com/ec2/)
