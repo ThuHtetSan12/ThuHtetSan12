@@ -1,6 +1,4 @@
-<h2 align="center">Hi, I'm San
-  
-  a student from Singapore Polytechnic currently interning at Digital Learning Department in LKC School of Medicine 👋</h2>
+<h2 align="center">Hi, I'm San</h2>
 
 📫 How to reach me: thuhtet12.lmf@gmail.com<br>
 💻 Projects I have worked on are in this GitHub
